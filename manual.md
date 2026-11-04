@@ -5,9 +5,10 @@ This is Calamity's guild manual.
 
 # Sections
 - [1 Requirements](#1-requirements)
-- [2 Ranks](#2-ranks)
-- [3 Staff](#3-staff-ranks)
-- [4 Infractions](#4-rules-and-infractions)
+- [2 Guild Ranks](#2-guild-ranks)
+- [3 Discord Ranks](#3-discord-ranks)
+- [4 Staff](#4-staff-ranks)
+- [5 Infractions](#5-rules-and-infractions)
 
 # 1 Requirements
 1. To be eligible to join the guild, you must be at least Level 200 or Cata 40. An exception may be granted if any of the following apply:
@@ -16,13 +17,14 @@ This is Calamity's guild manual.
 2. To stay in the guild, you must be online at least once a week. If you fail to meet this requirement, you will be at risk of getting kicked from the guild.
 	- You may rejoin the guild at any time. Returning players will receive higher join priority in the event that the guild is full.
 3. If your hypixel status is set to `offline`, your activity will be determined by your gxp (minimum of 1 gxp per week).
-# 2 Ranks
+# 2 Guild Ranks
 1. There are four non-staff ranks. They will be assigned based on your Skyblock level:
 	- Novice - Level 200 (and below)
 	- Elite - Level 320
 	- Legend - Level 360
 	- God - Level 400
-# 3 Staff Ranks
+# 3 Discord Ranks
+# 4 Staff Ranks
 1. Staff rank will be assigned as deemed necessary by the Guild Master.
 2. Factors that contribute:
 	- to act mature
@@ -50,7 +52,7 @@ This is Calamity's guild manual.
 	- displaying aggregiously poor decision making or reasoning
 	- commiting infractions
 	- commiting treason
-# 4 Rules and Infractions
+# 5 Rules and Infractions
 1. Infractions are separated into two categories: minor and major. The category of an infraction will be decided on a case to case basis. Minor infractions will recieve a warning before punishment.
 2. Infractions may be reported via ...
 3. Bans and kicks
